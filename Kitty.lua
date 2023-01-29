@@ -30,7 +30,7 @@
                                                                                                                                                                                 --[[
                 Before you use this I want to say that, yes you don't need this 
         but it's a good way to manage all of your needed modules and premade functions
-        into one dependancy, so that you only have to require one and only one module script.
+        into one dependency, so that you only have to require one and only one module script.
 
                                                                                                                                                                                 ]]--
 local Kitty = {}
